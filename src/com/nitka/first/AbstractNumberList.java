@@ -1,5 +1,7 @@
 package com.nitka.first;
 
+import com.nitka.NumberList;
+
 import java.util.InputMismatchException;
 import java.util.List;
 

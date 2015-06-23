@@ -1,7 +1,7 @@
 package com.nitka.tests;
 
-import com.nitka.first.Node;
-import com.nitka.first.Tree;
+import com.nitka.third.Node;
+import com.nitka.third.Tree;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

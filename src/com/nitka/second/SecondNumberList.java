@@ -1,4 +1,6 @@
-package com.nitka.first;
+package com.nitka.second;
+
+import com.nitka.first.AbstractNumberList;
 
 import java.util.LinkedList;
 import java.util.ListIterator;

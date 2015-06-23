@@ -1,7 +1,7 @@
 package com.nitka.tests;
 
-import com.nitka.first.NumberList;
-import com.nitka.first.SecondNumberList;
+import com.nitka.NumberList;
+import com.nitka.second.SecondNumberList;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

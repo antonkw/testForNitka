@@ -1,4 +1,4 @@
-package com.nitka.first;
+package com.nitka;
 
 import java.util.InputMismatchException;
 import java.util.List;

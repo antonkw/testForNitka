@@ -1,4 +1,4 @@
-package com.nitka.first;
+package com.nitka.third;
 
 import static java.lang.Integer.max;
 

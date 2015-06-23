@@ -1,4 +1,4 @@
-package com.nitka.first;
+package com.nitka.third;
 
 /**
  * Created by antonkw on 24.06.2015.
